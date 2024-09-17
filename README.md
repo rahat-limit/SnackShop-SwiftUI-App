@@ -16,7 +16,7 @@ A few of the things you can do with Notio:
 
 ## ✖️ Home, Products Catalog, Cart, Account Pages.
 <p align='center'>
-    <image src='https://github.com/rahat-limit/SnackShop-SwiftUI-App/tree/main/git_assets/home.png' width='200'/>
+    <image src='https://github.com/rahat-limit/SnackShop-SwiftUI-App/blob/3516afa5384754b6d3f6c30ceb70fa30c0541561/git_assets/home.png' width='200'/>
     <image src='https://github.com/rahat-limit/SnackShop-SwiftUI-App/tree/main/git_assets/catalog.png' width='200'/>
     <image src='https://github.com/rahat-limit/SnackShop-SwiftUI-App/tree/main/git_assets/cart.png' width='200'/>
     <image src='https://github.com/rahat-limit/SnackShop-SwiftUI-App/tree/main/git_assets/account.png' width='200'/>
