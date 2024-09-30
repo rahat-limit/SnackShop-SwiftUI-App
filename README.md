@@ -6,7 +6,7 @@ Welcome to my respository, which I created due to practice of learning SwiftUI. 
 
 ## ✖️ Features
 
-A few of the things you can do with Notio:
+A few of the things you can do with Snackshop:
 
 * [Firebase Authentication](https://firebase.google.com) 
 * [Firestore DataBase](https://firebase.google.com)
